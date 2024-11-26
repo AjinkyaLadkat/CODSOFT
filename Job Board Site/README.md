@@ -1,4 +1,4 @@
---WorkForge - Job Board Platform--
+**WorkForge - Job Board Platform**
 
 --Overview--
 WorkForge is a job board platform designed to connect recruiters with job seekers. It allows recruiters to post job listings, while candidates can browse and apply for jobs. The project was developed as part of my internship at CodSoft and leverages modern web technologies to provide a seamless experience for both recruiters and job seekers.
