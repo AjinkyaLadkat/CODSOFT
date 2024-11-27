@@ -51,29 +51,29 @@ To deploy your project on Netlify:
 Run the following command to build the production-ready version of the app:
 - npm run build
 
-1.Deploy the Build Folder
-2.Go to your Netlify dashboard
-3.Click "New site from Git"
-4.Connect your GitHub repository (if not done already)
-5.Set the build directory to dist
-6.Click "Deploy"
+- 1.Deploy the Build Folder
+- 2.Go to your Netlify dashboard
+- 3.Click "New site from Git"
+- 4.Connect your GitHub repository (if not done already)
+- 5.Set the build directory to dist
+- 6.Click "Deploy"
 
 Alternatively, you can deploy manually via the Netlify CLI:
 - netlify deploy --prod --dir=dist
 
 ## Folder Structure
 Here’s a brief overview of the folder structure:
-├── public/
-│   └── _redirects
-├── src/
-│   ├── components/    # All UI components (using ShadCN UI)
-│   ├── pages/         # React pages (e.g., Home, PostJob, Profile)
-│   ├── App.jsx        # Root component
-│   └── main.jsx       # Entry point for the app
-├── .gitignore         # Git ignore file
-├── .env               # Environment variables
-├── package.json       # NPM dependencies and scripts
-└── README.md          # Project documentation
+- ├── public/
+- │   └── _redirects
+- ├── src/
+- │   ├── components/    # All UI components (using ShadCN UI)
+- │   ├── pages/         # React pages (e.g., Home, PostJob, Profile)
+- │   ├── App.jsx        # Root component
+- │   └── main.jsx       # Entry point for the app
+- ├── .gitignore         # Git ignore file
+- ├── .env               # Environment variables
+- ├── package.json       # NPM dependencies and scripts
+- └── README.md          # Project documentation
 
 ## Usage
 
