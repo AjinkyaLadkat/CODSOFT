@@ -21,4 +21,4 @@ A simple quiz application where users can take a quiz, answer multiple-choice qu
 ## How to Get Started:
 1. Clone the repository: 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/AjinkyaLadkat/CODSOFT.git
