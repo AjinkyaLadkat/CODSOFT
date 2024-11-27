@@ -1,4 +1,4 @@
-###Quiz App###
+###Quiz App
 
 A simple and interactive quiz application where users can test their knowledge on various topics. The app provides multiple-choice questions (MCQs) and tracks the user's score throughout the quiz.
 
