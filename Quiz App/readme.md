@@ -12,6 +12,6 @@ A simple and interactive quiz application where users can test their knowledge o
 
 ## Tech Stack
 
- React: The front-end framework for building the user interface.
- Material UI: Used for UI components like buttons, loading spinners, etc.
- CSS: For custom styling and responsive design.
+ - React: The front-end framework for building the user interface.
+ - Material UI: Used for UI components like buttons, loading spinners, etc.
+ - CSS: For custom styling and responsive design.
