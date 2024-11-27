@@ -21,7 +21,7 @@ A simple and interactive quiz application where users can test their knowledge o
 To run the Quiz App locally on your machine:
 
 # Clone the repository:
-- git clone https://github.com/yourusername/repo-name.git
+- git clone https://github.com/AjinkyaLadkat/CODSOFT.git
 
 # Navigate to the project directory:
 - cd quiz-app
