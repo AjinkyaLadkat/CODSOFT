@@ -15,3 +15,22 @@ A simple and interactive quiz application where users can test their knowledge o
  - React: The front-end framework for building the user interface.
  - Material UI: Used for UI components like buttons, loading spinners, etc.
  - CSS: For custom styling and responsive design.
+
+
+##Installation
+To run the Quiz App locally on your machine:
+
+# Clone the repository:
+- git clone https://github.com/yourusername/repo-name.git
+
+# Navigate to the project directory:
+- cd quiz-app
+
+# Install the dependencies:
+- npm install
+
+# Run the app:
+- npm start
+
+
+
